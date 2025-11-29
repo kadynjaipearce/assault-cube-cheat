@@ -1,0 +1,10 @@
+[package]
+name = "ac_cheat"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+clearscreen = "4.0.2"
+proc_mem = "0.1.6"
+winapi = { version = "0.3", features = ["winuser"] }
