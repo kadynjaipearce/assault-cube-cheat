@@ -11,8 +11,9 @@ A cheat tool for Assault Cube with aimbot functionality.
 ## Installation
 
 1. Clone this repository
-2. Ensure Assault Cube 1.3.0.2 is installed and running
-3. Build and run with:
+2. Download Assault Cube 1.3.0.2 [Link Here](https://assault.cubers.net/download.html)
+3. Ensure Assault Cube 1.3.0.2 is installed and running
+4. Build and run with:
 
 ```bash
 cargo run --target i686-pc-windows-msvc
@@ -20,7 +21,7 @@ cargo run --target i686-pc-windows-msvc
 
 ## Usage
 
-- **Right Click** - Toggles aimbot on/off
+- **Hold Right Click** - Toggles aimbot on/off
 
 ## Features
 
